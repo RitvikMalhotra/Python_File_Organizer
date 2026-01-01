@@ -3,3 +3,6 @@
 2025-12-19 11:40:28.996656 - Moved MEIA NOITE (Super Slowed) - HyperTunes.mp3 to Music
 2025-12-19 11:40:28.997203 - Moved Untitled design.png to Images
 2025-12-19 11:40:28.998162 - Moved _DSC0711.JPG to Images
+2026-01-01 11:55:26.562002 - Moved .gitattributes to Others
+2026-01-01 11:55:26.563147 - Moved .gitignore to Others
+2026-01-01 11:55:26.563868 - Moved 7f0d95e8-008c-4c57-9c20-fe0fcdd49015.jpg to Images
